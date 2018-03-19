@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Solution</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">OK</string>
+    <string name="error">Error receiving forecast data!</string>
+    <string name="date">Date: %s</string>
+    <string name="high">High: %s</string>
+    <string name="low">Low: %s</string>
+    <string name="description">Description: %s</string>
+    <string name="get_forecast">Get Forecast</string>
+</resources>
